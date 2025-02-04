@@ -1,1 +1,2 @@
-# weather-s
+# Weather-Bee
+weather forecast application
